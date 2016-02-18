@@ -72,7 +72,7 @@ The bottom has three modes. Respectively, the buttons for the transition to the 
         <f> = file0123_456
         <e> = .doc
 
-        変換ルール 「NewName_<2><3><e>」を適用すると、NewName_0123456.doc」と変換されます。
+        変換ルール 「NewName_<2><3><e>」を適用すると、「NewName_0123456.doc」と変換されます。
 
 ####5. 履歴数、検索ファイル数の設定
 (Number of history, and number of searches files)
