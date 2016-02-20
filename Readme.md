@@ -80,6 +80,15 @@ The bottom has three modes. Respectively, the buttons for the transition to the 
 選択されたコピー元、コピー先は、履歴に保存されます。次回からは、この履歴から選択することができますが、この履歴の保存数を変更できます。上部メニューの「ファイル」→「設定」を選んで、設定画面から入力してください。
 また、この設定画面の「検索数」は、コピー元で表示するファイルの数を設定します。検索したファイル数がこの数を超えた場合、検索を中止するか継続するかの選択ができます。ファイル数のチェックは、１フォルダ単位で行っています。１つのフォルダの中に大量のファイルがある場合は、それを全て検索した後で選択画面が表示されますので、設定したファイル数を大幅に超えてしまうことがあります。
 
+####6. FastCopyの使用
+(Use FastCopy)
+
+コピー処理に「FastCopy高速コピー＆削除」を使用することもできます。白水啓章さんのホームページからFastCopyをダウンロードし、インストールしてください。(http://ipmsg.org/tools/fastcopy.html)
+
+使用するには、　「ファイル」→「設定」から「使用しない」をクリックしてください。FastCopyが通常のProgram FilesあるいはProgram Files (x86)にインストールされていれば、使用可能になります。
+
+複数のサブフォルダーのファイルを、ディレクトリ構造のままコピーする場合、FastCopyがフォルダ単位の処理となり、その度に起動されます。そのため、起動のオーバーヘッドが大きくなり、通常のコピーより遅くなってしまいます。ネット上の大きなファイルをコピーする時以外は、「使用（ディレクトリ構造無視のみ）」に設定しておくのがいいでしょう。
+
 AUTHOR
 ------
 self@spumoni.org
@@ -100,7 +109,14 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+以下に定める条件に従い、本ソフトウェアおよび関連文書のファイル（以下「ソフトウェア」）の複製を取得するすべての人に対し、ソフトウェアを無制限に扱うことを無償で許可します。これには、ソフトウェアの複製を使用、複写、変更、結合、掲載、頒布、サブライセンス、および/または販売する権利、およびソフトウェアを提供する相手に同じことを許可する権利も無制限に含まれます。
+
+上記の著作権表示および本許諾表示を、ソフトウェアのすべての複製または重要な部分に記載するものとします。
+
+ソフトウェアは「現状のまま」で、明示であるか暗黙であるかを問わず、何らの保証もなく提供されます。ここでいう保証とは、商品性、特定の目的への適合性、および権利非侵害についての保証も含みますが、それに限定されるものではありません。 作者または著作権者は、契約行為、不法行為、またはそれ以外であろうと、ソフトウェアに起因または関連し、あるいはソフトウェアの使用またはその他の扱いによって生じる一切の請求、損害、その他の義務について何らの責任も負わないものとします。 
 ----
 ####SQLite
 
 SQLite is public domain. <https://www.sqlite.org/copyright.html>
+
+
