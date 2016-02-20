@@ -1,5 +1,6 @@
 SIFT – Multi-functional copy tool
 ====
+ー　気の利いたコピーツール。ディスクの整理にも使えます。ー
 
 OVERVIEW
 ------
@@ -44,6 +45,8 @@ The bottom has three modes. Respectively, the buttons for the transition to the 
         %FileNam_.doc
 
 また、「－」ボタンで検索対象を除外することもできますので、「%.xls」でエクセルファイルを選択した後、「%コピー%」と入力して「－」ボタンを押すと、ファイル名に「コピー」を含むファイルを除外することができます。
+
+ファイル名を指定して、「M」キーでチェックを入れ、「U」キーでチェックを外し、「O」キーでファイルを開き、「I」キーでフォルダを開くことができます。
 
 ####3. コピー対象ファイル名ペーストモード 
 (The target file name paste mode)
