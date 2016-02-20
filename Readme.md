@@ -1,6 +1,5 @@
 SIFT – Multi-functional copy tool
 ====
-ー　気の利いたコピーツール。ディスクの整理にも使えます。ー
 
 OVERVIEW
 ------
