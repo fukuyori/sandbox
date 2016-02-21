@@ -74,6 +74,8 @@ The bottom has three modes. Respectively, the buttons for the transition to the 
 
         変換ルール 「NewName_<2><3><e>」を適用すると、「NewName_0123456.doc」と変換されます。
 
+ファイル名の変更のみを行いたい場合は、コピー先を入力せずにコピー開始のボタンを押してください。
+
 ####5. 履歴数、検索ファイル数の設定
 (Number of history, and number of searches files)
 
