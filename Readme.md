@@ -53,7 +53,7 @@ The bottom has three modes. Respectively, the buttons for the transition to the 
   - I: 選択したファイルのフォルダを開く
   - S: ソート条件を解除
 
-![Mode 1](pic/sift001.jpg)
+![Mode 1](pic/sift001.gif)
 
 ####3. コピー対象ファイル名ペーストモード 
 (The target file name paste mode)
