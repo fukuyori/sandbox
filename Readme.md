@@ -53,6 +53,8 @@ The bottom has three modes. Respectively, the buttons for the transition to the 
   - I: 選択したファイルのフォルダを開く
   - S: ソート条件を解除
 
+![Mode 1](pic/sift001.jpg)
+
 ####3. コピー対象ファイル名ペーストモード 
 (The target file name paste mode)
 
@@ -64,6 +66,8 @@ The bottom has three modes. Respectively, the buttons for the transition to the 
   - Ctrl+C: 選択した部分をクリップボードにコピー
   - I: 選択したファイルのフォルダを開く
   - S: ソート条件を解除
+
+![Mode 2](pic/sift002.jpg)
 
 ####4. コピー先ファイル名変更モード
 (The destination file name change mode)
@@ -93,11 +97,15 @@ The bottom has three modes. Respectively, the buttons for the transition to the 
   - Ctrl+V: クリップボードからファイル名を貼付け
   - Ctrl+C: 選択した部分をクリップボードにコピー
 
+![Mode 3](pic/sift003.jpg)
+
 ####5. 履歴数、検索ファイル数の設定
 (Number of history, and number of searches files)
 
 選択されたコピー元、コピー先は、履歴に保存されます。次回からは、この履歴から選択することができますが、この履歴の保存数を変更できます。上部メニューの「ファイル」→「設定」を選んで、設定画面から入力してください。
 また、この設定画面の「検索数」は、コピー元で表示するファイルの数を設定します。検索したファイル数がこの数を超えた場合、検索を中止するか継続するかの選択ができます。ファイル数のチェックは、１フォルダ単位で行っています。１つのフォルダの中に大量のファイルがある場合は、それを全て検索した後で選択画面が表示されますので、設定したファイル数を大幅に超えてしまうことがあります。
+
+![Config](pic/sift004.jpg)
 
 ####6. FastCopyの使用
 (Use FastCopy)
