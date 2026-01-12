@@ -2,6 +2,21 @@ SIFT – Multi-functional copy tool
 ====
 ー　気の利いたコピーツール。ディスクに散らばるファイルの整理にも使えます。ー
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 OVERVIEW
 ------
 If when you have to look for a file from deep in the hierarchy structure directory, please try to use this tool. Or, also useful when you must be singled out what is in Excel table from among the large number of files. In addition, even if you want to change all at once a large number of file names, you will have this tool will help.
@@ -148,5 +163,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ####SQLite
 
 SQLite is public domain. <https://www.sqlite.org/copyright.html>
+
 
 
